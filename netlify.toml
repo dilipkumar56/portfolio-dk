@@ -8,3 +8,8 @@ status=200
 [build]
   command = "npm run build"
   publish = "dist"
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+  node_version = "14"  # Adjust this based on your project requirements
