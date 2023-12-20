@@ -1,9 +1,9 @@
 * {
-    background: #eff4fd;
+    background: #dbe6fa;
 }
 
 .edu {
-    background: #eff4fd;
+    background: #8994a9;
 }
 
 .edutittle {
@@ -11,11 +11,11 @@
     font-size: 35PX;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
-    color: orange;
+    color: rgb(25, 0, 255);
     padding: 2%;
     text-align: center;
     width: 100%;
-    color: orange;
+    color: rgb(0, 145, 255);
 }
 .college .college-info:hover {
     transform: scale(1.2);
@@ -45,7 +45,7 @@
   
    
     display: flex;
-    /* color: orange; */
+    /* color: blue; */
 }
 
 .college-info h1 {
@@ -79,7 +79,7 @@
 }
 
 .edu-info h3 {
-    color: orange;
+    color: rgb(0, 255, 60);
 }
 
 .edu-info h2 {
@@ -100,7 +100,7 @@
     width: 100%;
     text-align: center;
     color: rgb(5, 5, 0);
-    color: orange;
+    color: rgb(0, 72, 255);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 40px;
 }
@@ -134,7 +134,7 @@
 
 .get-tittle {
     width: auto;
-    color: rgb(250, 172, 84);
+    color: rgb(9, 5, 229);
     font-size: 12px;
     padding-left: 10%;
     padding-top: 1%;
@@ -184,7 +184,7 @@
 }
 
 .contant-card h2 {
-    color: rgb(248, 142, 21);
+    color: rgb(12, 117, 238);
 }
 
 .skills {
@@ -192,7 +192,7 @@
     padding-left: 45%;
     padding-right: 45%;
     padding-top: 5%;
-    color: orange;
+    color: rgb(0, 89, 255);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 40px;
     font-weight: 700;
@@ -226,11 +226,11 @@
 
 .get-in-touch.contant {
     margin-left: 30%;
-    color: rgb(247, 195, 84);
+    color: rgb(62, 8, 241);
 }
 
 .contant .media a i:hover {
-    color: orange;
+    color: rgb(0, 26, 255);
 }
 
 .row {
@@ -274,7 +274,7 @@
 }
 
 .progress .progress-bar {
-    background-image: linear-gradient(to bottom right, rgb(241, 141, 10), rgb(14, 216, 216) ,rgb(22, 189, 86)) !important;
+    background-image: linear-gradient(to bottom right, rgb(4, 87, 242), rgb(14, 216, 216) ,rgb(22, 189, 86)) !important;
     border-radius: 20px;
     border: 1px solid #171b3c;
     animation: animate-positive 5s;
@@ -412,7 +412,7 @@ span {
 .ABOUTME {
     text-align: center;
     padding-top: 3%;
-    color: orange;
+    color: rgb(0, 68, 255);
     margin-top:-12%;
     font-size: 40px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -469,7 +469,7 @@ span {
 .contant {
     margin-left: 7%;
     margin-top: 1%;
-    color: orange;
+    color: rgb(0, 68, 255);
 }
 
 .contant .media {
