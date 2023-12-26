@@ -5,5 +5,8 @@ status=200
 
 # netlify.toml
 
+[build]
+command = "npm run build"
+publish = "dist"  # Adjust the directory if needed
 
 
